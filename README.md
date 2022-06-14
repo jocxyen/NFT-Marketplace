@@ -47,7 +47,7 @@ UNS Domain Resolution API is used to get ETH address from unstoppable domain API
 Smart contract address:https://mumbai.polygonscan.com/address/0xea289a892958cf2fb5d5409a80cc2163c2a1b358 </br>
 Code link: https://github.com/jocxyen/NFT-Marketplace/blob/c242038f9ebf6a88c4cdb4d44e4f52e46f1005f3/src/components/Gift.jsx#L28</br>
 https://github.com/jocxyen/NFT-Marketplace/blob/c242038f9ebf6a88c4cdb4d44e4f52e46f1005f3/src/components/Gift.jsx#L37-L41</br>
-
+Youtube: https://youtu.be/vEUAYTVlDrg
 
 
 
@@ -56,7 +56,7 @@ https://github.com/jocxyen/NFT-Marketplace/blob/c242038f9ebf6a88c4cdb4d44e4f52e4
 ### Integrating UNS “Login With Unstoppable”
 Please refresh after login with UD for the dapp to update.</br>
 Code link:https://github.com/jocxyen/NFT-Marketplace/blob/c242038f9ebf6a88c4cdb4d44e4f52e46f1005f3/src/components/ConnectModel.jsx#L33-L37</br>
-
+Youtube: https://youtu.be/6jBS3aO89Pg
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 ## Contact Jocelin on discord joc#7456 or email: bestoneisme123@gmail.com
