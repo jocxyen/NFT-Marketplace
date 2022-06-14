@@ -1,0 +1,59 @@
+{
+  "name": "nft-marketplace",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/react": "^1.8.6",
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "@uauth/js": "^1.1.0",
+    "@uauth/web3modal": "^1.1.0",
+    "@walletconnect/web3-provider": "^1.7.8",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.8",
+    "framer-motion": "^6.2.8",
+    "hover-effect": "^1.1.0",
+    "react": "^17.0.2",
+    "react-axios": "^2.0.6",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-identicons": "^1.2.5",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-slideshow-image": "^3.7.0",
+    "swiper": "^8.0.7",
+    "use-sound": "^4.0.1",
+    "web-vitals": "^2.1.4",
+    "web3modal": "^1.9.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/react": "^3.2.2"
+  }
+}
