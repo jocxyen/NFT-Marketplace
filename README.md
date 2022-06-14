@@ -36,7 +36,7 @@
 ### Covalent API: Web3 Application General Purpose Bounty (Covalent)
 Covalent API is used to fetch user NFTs and allow them to sell and gift their own nfts.</br>
 Smart contract address: https://mumbai.polygonscan.com/address/0xea289a892958cf2fb5d5409a80cc2163c2a1b358 </br>
-Code link:https://github.com/jocxyen/NFT-Marketplace/blob/6123c7ed70ac0d31659e22698a044cb2bb2cc8d0/src/components/Assets.jsx#L35-L37</br>
+Code link:https://github.com/jocxyen/NFT-Marketplace/blob/c242038f9ebf6a88c4cdb4d44e4f52e46f1005f3/src/components/Assets.jsx#L35-L37</br>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -45,7 +45,8 @@ Code link:https://github.com/jocxyen/NFT-Marketplace/blob/6123c7ed70ac0d31659e22
 UNS Domain Resolution API is used to get ETH address from unstoppable domain API to send ERC721 token to the domain.</br>
 
 Smart contract address:https://mumbai.polygonscan.com/address/0xea289a892958cf2fb5d5409a80cc2163c2a1b358 </br>
-Code link: https://github.com/jocxyen/NFT-Marketplace/blob/6123c7ed70ac0d31659e22698a044cb2bb2cc8d0/src/components/Gift.jsx#L28</br>
+Code link: https://github.com/jocxyen/NFT-Marketplace/blob/c242038f9ebf6a88c4cdb4d44e4f52e46f1005f3/src/components/Gift.jsx#L28</br>
+https://github.com/jocxyen/NFT-Marketplace/blob/c242038f9ebf6a88c4cdb4d44e4f52e46f1005f3/src/components/Gift.jsx#L37-L41</br>
 
 
 
@@ -54,7 +55,7 @@ Code link: https://github.com/jocxyen/NFT-Marketplace/blob/6123c7ed70ac0d31659e2
 
 ### Integrating UNS “Login With Unstoppable”
 Please refresh after login with UD for the dapp to update.</br>
-Code link:https://github.com/jocxyen/NFT-Marketplace/blob/f093e9afb995e5872fb7f7dfc3bf96cc35573caa/src/components/ConnectModel.jsx#L33-L37</br>
+Code link:https://github.com/jocxyen/NFT-Marketplace/blob/c242038f9ebf6a88c4cdb4d44e4f52e46f1005f3/src/components/ConnectModel.jsx#L33-L37</br>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
